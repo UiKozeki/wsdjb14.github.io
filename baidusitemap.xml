@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://example.com/2023/03/03/%E5%B0%8F%E9%A9%AC/</loc>
+    <lastmod>2023-12-16</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/2023/03/03/%E5%A4%9A%E7%B1%B3/</loc>
+    <lastmod>2023-12-16</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/2023/12/16/steam%E4%B8%AA%E4%BA%BA/</loc>
+    <lastmod>2023-12-16</lastmod>
+  </url>
+  <url>
     <loc>http://example.com/2023/03/03/%E5%B0%8F%E8%AF%B4/</loc>
     <lastmod>2023-12-02</lastmod>
   </url>
