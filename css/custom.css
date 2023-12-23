@@ -901,3 +901,12 @@ svg.icon {
   width: 100%;
   background-color: rgba(0, 0, 0, .1);
 }
+
+
+
+
+
+.loading-img {
+  background: url(https://i.postimg.cc/65QNtRX9/113503674-p0.png) no-repeat center center;
+  background-size: cover;
+}
