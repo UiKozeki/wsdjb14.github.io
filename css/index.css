@@ -7617,13 +7617,7 @@ blockquote.pullquote.right {
     color: var(--anzhiyu-white);
   }
   
-  .author-content-item.like-music {
-    background: url(https://p2.music.126.net/Mrg1i7DwcwjWBvQPIMt_Mg==/79164837213438.jpg) no-repeat top;
-    background-size: cover;
-    min-height: 400px;
-    color: var(--anzhiyu-white);
-    overflow: hidden;
-  }
+
   
   .author-content-item .card-content .banner-button-group {
     position: absolute;
