@@ -362,3 +362,4 @@ window.addEventListener('load', () => {
     searchClickFn()
   })
 })
+
